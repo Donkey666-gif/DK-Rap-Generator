@@ -9,53 +9,53 @@ typedef int bool;
 #define true 1
 #define false 0
 
-char* dkArray[] = {"so", "theyre", "finally", "here", "performing", "for", "you",
-"if", "you", "know", "the", "words", "you", "can", "join", "in", "too",
-"put", "your", "hands", "together", "if", "you", "want", "to", "clap",
-"as", "we", "take", "you", "through", "this", "monkey", "rap",
+char* dkArray[] = {"so", "theyre", "finally", "here", "and", "about", "time", "too",
+"if", "you", "know", "the", "words", "you", "can", "be", "so", "dank",
+"put", "your", "hands", "together", "if", "you", "want", "to", "pee",
+"as", "we", "take", "you", "through", "this", "carl", "wheezer",
 
 "hes", "the", "leader", "of", "the", "bunch", "you", "know", "him", "well",
-"hes", "finally", "back", "to", "kick", "some", "tail",
+"hes", "finally", "back", "to", "make", "a", "sparta", "remix",
 "his", "coconut", "gun", "can", "fire", "in", "spurts",
-"if", "he", "shoots", "ya", "its", "gonna", "hurt",
-"hes", "bigger", "faster", "and", "stronger", "too",
-"hes", "the", "first", "member", "of", "the", "dk", "crew",
+"if", "he", "shoots", "ya", "so", "lou", "gubrious",
+"hes", "bigger", "faster", "and", "much", "more", "gay",
+"hes", "the", "lastest", "member", "of", "the", "dick", "crew",
 
-"this", "kongs", "got", "style", "so", "listen", "up", "dudes",
-"she", "can", "shrink", "in", "size", "to", "suit", "her", "mood",
-"shes", "quick", "and", "nimble", "when", "she", "needs", "to", "be",
-"she", "can", "float", "through", "the", "air", "and", "climb", "up", "trees",
-"if", "you", "choose", "her", "youll", "not", "choose", "wrong",
-"with", "a", "skip", "and", "a", "hop", "shes", "one", "cool", "kong",
+"this", "kong", "is", "gay", "and", "voiced", "by", "dee", "bradley", "baker",
+"she", "can", "do", "deep", "voices", "like", "maddie", "blaustien",
+"shes", "gay", "and", "racist", "when", "she", "needs", "to", "poo",
+"she", "can", "float", "with", "ball", "gown", "and", "climb", "up", "mountians",
+"if", "you", "choose", "her", "youll", "not", "choose", "him",
+"with", "a", "skip", "and", "a", "clip", "shes", "one", "cool", "man",
 
-"he", "has", "no", "style", "he", "has", "no", "grace",
-"this", "kong", "has", "a", "funny", "face",
-"he", "can", "handstand", "when", "he", "needs", "to",
-"and", "stretch", "his", "arms", "out", "just", "for", "you",
-"inflate", "himself", "just", "like", "a", "balloon",
-"this", "crazy", "kong", "just", "digs", "this", "tune",
+"he", "is", "super", "sad", "he", "his", "super", "depressed",
+"this", "kong", "has", "the", "saddest", "face",
+"he", "can", "handstand", "when", "he", "needs", "to", "die",
+"and", "stretch", "his", "ass", "out", "just", "like", "joe",
+"inflate", "himself", "just", "like", "a", "blimp",
+"this", "crazy", "kong", "just", "poops", "on", "you",
 
-"hes", "back", "again", "and", "about", "time", "too",
-"and", "this", "time", "hes", "in", "the", "mood",
-"he", "can", "fly", "real", "high", "with", "his", "jetpack", "on",
-"with", "his", "pistols", "out", "hes", "one", "tough", "kong",
-"hell", "make", "you", "smile", "when", "he", "plays", "his", "tune",
-"but", "kremlings", "beware", "cause", "hes", "after", "you",
+"hes", "back", "again", "and", "about", "time", "dies",
+"and", "this", "time", "he", "bounces", "with", "his", "tail",
+"he", "can", "fly", "real", "high", "with", "his", "air", "plane",
+"with", "his", "pistols", "out", "hes", "one", "dank", "kong",
+"hell", "make", "you", "frown", "when", "he", "plays", "his", "balls",
+"but", "kremlings", "beware", "cause", "hes", "very", "fat",
 
-"finally", "hes", "here", "for", "you",
-"its", "the", "last", "member", "of", "the", "dk", "crew",
-"this", "kongs", "so", "strong", "it", "isnt", "funny",
-"can", "make", "a", "kremling", "cry", "out", "for", "mummy",
-"can", "pick", "up", "a", "boulder", "with", "relative", "ease",
-"makes", "crushing", "rocks", "seem", "such", "a", "breeze",
-"he", "may", "move", "slow", "he", "cant", "jump", "high",
-"but", "this", "kongs", "one", "hell", "of", "a", "guy",
+"finally", "hes", "here", "for", "us",
+"its", "the", "last", "member", "of", "the", "dic", "fan", "club",
+"this", "kongs", "so", "fat", "it", "is", "funny", "as", "fuck",
+"can", "make", "a", "kremling", "cry", "a", "big", "river",
+"can", "pick", "up", "a", "boulder", "with", "jim", "cummings",
+"makes", "crushing", "rocks", "seem", "such", "a", "freeze",
+"he", "may", "move", "slow", "he", "cant", "jump", "ever",
+"but", "this", "kongs", "one", "fuck", "of", "a", "guy",
 
-"cmon", "cranky", "take", "it", "to", "the", "fridge",
+"cmon", "cranky", "take", "it", "to", "the", "max",
 
 "walnuts", "peanuts", "pineapple", "smells",
-"grapes", "melons", "oranges", "and", "coconut", "shells",
-"ahh", "yeah"};
+"grapes", "melons", "oranges", "and", "crotch", "shots",
+"ahh", "shir"};
 
 //Dynamic size of the array in C ;_;
 int sizeOfDKArray = NOELMS(dkArray);
@@ -114,16 +114,16 @@ void printVerses(int sizeOfVerse) {
 		printf("\n");
 	}
 	
-	//HUH
+	//SHIT
 	if(!skipALot) printf("Huh!\n\n");
 
-	//DK! Donkey Kong!
+	//KD! Konkey Dong!
 	if(!skip) {
 		char* word1 = dkArray[rand()%(sizeOfDKArray)];
 		char* word2 = dkArray[rand()%(sizeOfDKArray)];
 		printf("%c%c! %s %s!\n", toupper(word1[0]), toupper(word2[0]), word1, word2);
 		
-		//DK! Donkey Kong is here!
+		//DK! Donkey Kong is gay!
 		if(everySecond==false) everySecond=true;
 		else {
 			printf("%c%c! %s %s is here!\n", toupper(word1[0]), toupper(word2[0]), word1, word2);
